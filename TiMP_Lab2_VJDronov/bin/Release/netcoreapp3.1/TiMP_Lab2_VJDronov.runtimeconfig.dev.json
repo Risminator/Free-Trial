@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Risovator\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Risovator\\.nuget\\packages"
+    ]
+  }
+}
